@@ -1,0 +1,22 @@
+{
+    "name": "Benjamin Kuzava",
+    "website": "https://benjamin-kuzava.github.io/",
+    "linkedin": "https://www.linkedin.com/in/kuzav1bj/",
+    "github": "Benjamin-Kuzava",
+    "email": "kuzav1bj@gmail.com",
+    "resume": "https://benjamin-kuzava.github.io/assets/Benjamin-Kuzava-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+
+    ],
+    "otherSkills": [
+        "Building computers",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
